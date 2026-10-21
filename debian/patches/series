@@ -1,2 +1,3 @@
 linux/0001-feat-Radxa-common-kernel-config.patch
 linux/0002-feat-Radxa-custom-kernel-config.patch
+linux/0004-media-iris-Preserve-timestamps-on-error-buffers.patch
