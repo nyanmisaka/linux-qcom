@@ -1,3 +1,10 @@
+linux-qcom (7.0.11-10) unstable; urgency=medium
+
+  [ nyanmisaka ]
+  * chore: update submodules
+
+ -- "nyanmisaka" <nst799610810@gmail.com>  Mon, 16 Nov 2026 16:52:14 +0800
+
 linux-qcom (7.0.11-9) unstable; urgency=medium
 
   [ github-actions[bot] ]
